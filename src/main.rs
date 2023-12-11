@@ -19,8 +19,10 @@ mod utils;
 //mod _17;
 //mod _18;
 //mod _19;
-mod _20;
+//mod _20;
+//mod _21;
+mod _22;
 
 fn main() {
-    println!("Result: {}", _20::run());
+    println!("Result: {}", _22::run());
 }
